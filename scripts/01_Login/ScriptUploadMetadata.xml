@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>01Login</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="01Login.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="01Login.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="WebSocketBuffer.h" Filter="2" />
+    <FileEntry Name="combined_01Login.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name=".gitignore" Filter="1" />
+    <FileEntry Name="01Login.c.pickle" Filter="1" />
+    <FileEntry Name="01Login.ci" Filter="1" />
+    <FileEntry Name="01Login.prm.bak" Filter="1" />
+    <FileEntry Name="115170407440.idx" Filter="1" />
+    <FileEntry Name="145441300440.idx" Filter="1" />
+    <FileEntry Name="163477194440.idx" Filter="1" />
+    <FileEntry Name="16347719444_CSy.660.idx" Filter="1" />
+    <FileEntry Name="16347719444_Dna.610.idx" Filter="1" />
+    <FileEntry Name="16347719444_eQO.758.idx" Filter="1" />
+    <FileEntry Name="16347719444_Yl1.334.idx" Filter="1" />
+    <FileEntry Name="193749065440.idx" Filter="1" />
+    <FileEntry Name="207097384440.idx" Filter="1" />
+    <FileEntry Name="20709738444_0WE.917.idx" Filter="1" />
+    <FileEntry Name="20709738444_4Ao.101.idx" Filter="1" />
+    <FileEntry Name="20709738444_56q.611.idx" Filter="1" />
+    <FileEntry Name="20709738444_AuC.333.idx" Filter="1" />
+    <FileEntry Name="20709738444_b4U.231.idx" Filter="1" />
+    <FileEntry Name="20709738444_byP.467.idx" Filter="1" />
+    <FileEntry Name="20709738444_eHg.609.idx" Filter="1" />
+    <FileEntry Name="20709738444_HQD.285.idx" Filter="1" />
+    <FileEntry Name="20709738444_ijS.697.idx" Filter="1" />
+    <FileEntry Name="20709738444_Jy9.555.idx" Filter="1" />
+    <FileEntry Name="20709738444_mwi.549.idx" Filter="1" />
+    <FileEntry Name="20709738444_mx4.659.idx" Filter="1" />
+    <FileEntry Name="20709738444_nw5.103.idx" Filter="1" />
+    <FileEntry Name="20709738444_o7L.757.idx" Filter="1" />
+    <FileEntry Name="20709738444_qfu.643.idx" Filter="1" />
+    <FileEntry Name="20709738444_w5x.431.idx" Filter="1" />
+    <FileEntry Name="20709738444_x9n.901.idx" Filter="1" />
+    <FileEntry Name="20709738444_yAt.801.idx" Filter="1" />
+    <FileEntry Name="20709738444_Z8T.827.idx" Filter="1" />
+    <FileEntry Name="20709738444_Zlj.121.idx" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="custom_body_variables.txt" Filter="1" />
+    <FileEntry Name="data.dat" Filter="1" />
+    <FileEntry Name="data.zip" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="login.dat" Filter="1" />
+    <FileEntry Name="lrw_custom_body.h" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="NewParam(1).dat" Filter="1" />
+    <FileEntry Name="NewParam.dat" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="password.dat" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="username.dat" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name=".git\" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>

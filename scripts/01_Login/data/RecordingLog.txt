@@ -1,0 +1,760 @@
+[API Trapper      (49f0:5204)] Recording in 32-bit mode: F:\project\FirefoxPortable\FirefoxPortable.exe
+[API Trapper      (3be4:4d18)] Recording in 64-bit mode: F:\project\FirefoxPortable\App\Firefox64\firefox.exe
+[API Trapper      (46ac:24ac)] Recording in 64-bit mode: F:\project\FirefoxPortable\App\Firefox64\firefox.exe
+[Network Analyzer (46ac:1fe4)] ------------------------------------------------------------------------------------------
+[Network Analyzer (46ac:1fe4)] Load Network Traffic Analyzers:
+[Network Analyzer (46ac:1fe4)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (46ac:1fe4)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (46ac:1fe4)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (46ac:1fe4)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (46ac:1fe4)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (46ac:1fe4)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (46ac:1fe4)] ------------------------------------------------------------------------------------------
+[Network Analyzer (46ac:4178)] Address lookup for DESKTOP-L997D1H = 192.168.1.33
+[API Trapper      (2a88:109c)] Recording in 64-bit mode: F:\project\FirefoxPortable\App\Firefox64\firefox.exe
+[Network Analyzer (46ac:1fe4)] Establish Listener @ 127.0.0.1:8200
+[Network Analyzer (46ac:1fe4)] Address lookup for DESKTOP-L997D1H = 192.168.1.33
+[Network Analyzer (46ac:1fe4)] Request Connection: Remote Server @ 127.0.0.1:8200   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 23 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:1fe4)] Address lookup for DESKTOP-L997D1H = 192.168.1.33
+[Network Analyzer (46ac:1fe4)] Request Connection: Remote Server @ 34.117.188.166:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:1fe4)] Address lookup for DESKTOP-L997D1H = 192.168.1.33
+[Network Analyzer (46ac:1fe4)] Request Connection: Remote Server @ 34.149.100.209:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:32a4)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (46ac:1fe4)] Address lookup for DESKTOP-L997D1H = 192.168.1.33
+[Network Analyzer (46ac:28fc)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:1fe4)] Request Connection: Remote Server @ 34.160.144.191:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:32a4)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:439c)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (46ac:1fe4)] Address lookup for DESKTOP-L997D1H = 192.168.1.33
+[Network Analyzer (46ac:1fe4)] Request Connection: Remote Server @ 34.117.121.53:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:1fe4)] Address lookup for DESKTOP-L997D1H = 192.168.1.33
+[Network Analyzer (46ac:1fe4)] Request Connection: Remote Server @ 34.107.243.93:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:439c)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:2070)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (46ac:1fe4)] Address lookup for DESKTOP-L997D1H = 192.168.1.33
+[Network Analyzer (46ac:1fe4)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (46ac:21c8)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (46ac:1fe4)] Address lookup for DESKTOP-L997D1H = 192.168.1.33
+[Network Analyzer (46ac:1fe4)] Request Connection: Remote Server @ 35.244.181.201:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:1fe4)] Address lookup for DESKTOP-L997D1H = 192.168.1.33
+[Network Analyzer (46ac:4c24)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (46ac:1fe4)] Request Connection: Remote Server @ 34.149.100.209:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (46ac:4c24)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:3c4c)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (46ac:1fe4)] Address lookup for DESKTOP-L997D1H = 192.168.1.33
+[Network Analyzer (46ac: 6fc)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (46ac:1fe4)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "GET /success.txt?ipv4"   
+[Network Analyzer (46ac:4178)]   (Sid: 11) Client -> Server @ : 341 bytes (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:1fe4)] Address lookup for DESKTOP-L997D1H = 192.168.1.33
+[Network Analyzer (46ac:4178)]   (Sid: 11) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (46ac:1fe4)] Request Connection: Remote Server @ 34.117.188.166:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (46ac:1fe4)] Address lookup for DESKTOP-L997D1H = 192.168.1.33
+[Network Analyzer (46ac:1fe4)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:1fe4)] Address lookup for DESKTOP-L997D1H = 192.168.1.33
+[Network Analyzer (46ac:1fe4)] Request Connection: Remote Server @ 2.16.20.75:80   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "POST /"   
+[Network Analyzer (46ac:4178)]   (Sid: 14) Client -> Server @ : 462 bytes (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:2288)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (46ac:1fe4)] Address lookup for DESKTOP-L997D1H = 192.168.1.33
+[Network Analyzer (46ac:4178)]   (Sid: 14) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (46ac:1fe4)] Request Connection: Remote Server @ 142.250.74.35:80   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (46ac:1fe4)] Address lookup for DESKTOP-L997D1H = 192.168.1.33
+[Network Analyzer (46ac:1fe4)] Request Connection: Remote Server @ 2.16.20.75:80   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (46ac:1fe4)] Address lookup for DESKTOP-L997D1H = 192.168.1.33
+[Network Analyzer (46ac:1fe4)] Request Connection: Remote Server @ 2.16.20.75:80   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "POST /"   
+[Network Analyzer (46ac:4178)]   (Sid: 17) Client -> Server @ : 462 bytes (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "POST /"   
+[Network Analyzer (46ac:4178)]   (Sid: 16) Client -> Server @ : 462 bytes (Service=HTTP)
+[Web Request      (46ac:4178)] "POST /s/wr3/yvU"   
+[Network Analyzer (46ac:4178)]   (Sid: 15) Client -> Server @ : 465 bytes (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:2070)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:1fe4)] Address lookup for DESKTOP-L997D1H = 192.168.1.33
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid: 16) Server -> Client : 890 bytes  (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid: 17) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (46ac:1fe4)] Request Connection: Remote Server @ 2.16.20.75:80   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "GET /"   
+[Network Analyzer (46ac:4178)]   (Sid:  7) Client -> Server @ : 631 bytes (SSL)(Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "POST /"   
+[Network Analyzer (46ac:4178)]   (Sid: 18) Client -> Server @ : 462 bytes (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "POST /"   
+[Network Analyzer (46ac:4178)]   (Sid: 14) Client -> Server @ : 462 bytes (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "GET /v1/"   
+[Network Analyzer (46ac:4178)]   (Sid:  4) Client -> Server @ : 293 bytes (SSL)(Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid: 18) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid: 15) Server -> Client : 634 bytes  (Service=HTTP)
+[Network Analyzer (46ac:1fe4)] Address lookup for DESKTOP-L997D1H = 192.168.1.33
+[Network Analyzer (46ac:4178)]   (Sid:  4) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  4) Server -> Client : 40 bytes (SSL) (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid: 14) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (46ac:1fe4)] Request Connection: Remote Server @ 192.229.221.95:80   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "POST /"   
+[Network Analyzer (46ac:4178)]   (Sid: 19) Client -> Server @ : 462 bytes (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (46ac:1fe4)] Address lookup for DESKTOP-L997D1H = 192.168.1.33
+[Network Analyzer (46ac:1fe4)] Request Connection: Remote Server @ 192.229.221.95:80   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:21c8)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:28fc)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (46ac:4178)] "POST /"   
+[Network Analyzer (46ac:4178)]   (Sid: 20) Client -> Server @ : 462 bytes (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (46ac: 6fc)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    (46ac:2288)] SSLAccept(ssl_id = 2668400555136 = 0000026D49113480) Failed, ctx = 0000026D51B80090, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (46ac:2288)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "POST /spocs"   
+[Network Analyzer (46ac:4178)]   (Sid:  3) Client -> Server @ : 543 bytes (SSL)(Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "GET /chains/remote-settings.content-signature.mozilla.org-2024-12-27-18-19-47.chain"   
+[Network Analyzer (46ac:4178)]   (Sid:  5) Client -> Server @ : 366 bytes (SSL)(Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "GET /v1/buckets/main/collections/ms-language-packs/records/cfr-v1-ru"   
+[Network Analyzer (46ac:4178)]   (Sid: 10) Client -> Server @ : 495 bytes (SSL)(Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  7) Server -> Client : 240 bytes (SSL) (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  7) WebSocket handshake detected, switching connection type from HTTP to WebSocket
+[Network Analyzer (46ac:4178)]   (Sid:  7) Client -> Server @ : 117 bytes (SSL)(Service=WEBS)
+[Network Analyzer (46ac:4178)]   (Sid:  5) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid: 10) Server -> Client : 152 bytes (SSL) (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  5) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  5) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  5) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  5) Server -> Client : 306 bytes (SSL) (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid: 19) Server -> Client : 175 bytes  (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:3c4c)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "POST /submit/firefox-desktop/events/1/55080623-424f-43e5-ab06-363d5ba66724"   
+[Network Analyzer (46ac:4178)]   (Sid:  8) Client -> Server @ : 2198 bytes (SSL)(Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  3) Server -> Client : 1352 bytes (SSL) (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  7) Server -> Client : 115 bytes (SSL) (Service=WEBS)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (46ac:4178)]   (Sid: 20) Server -> Client : 175 bytes  (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "GET /update/6/Firefox/132.0.2/20241110231641/WINNT_x86_64-msvc-x64/ru/release/Windows_NT%252010.0.0.0.19045.5131%2520(x64)/ISET%3ASSE4_2%2CMEM%3A32452/portableapps/1.0/update.xml?force=1"   
+[Network Analyzer (46ac:4178)]   (Sid:  9) Client -> Server @ : 493 bytes (SSL)(Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "POST /s/wr3/yvU"   
+[Network Analyzer (46ac:4178)]   (Sid: 15) Client -> Server @ : 465 bytes (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid: 15) Server -> Client : 1105 bytes  (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer (46ac:4178)]   (Sid:  8) Server -> Client : 840 bytes (SSL) (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "POST /submit/firefox-desktop/use-counters/1/96f13c47-b2cf-43a5-b474-71144d145e3b"   
+[Network Analyzer (46ac:4178)]   (Sid:  8) Client -> Server @ : 1529 bytes (SSL)(Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  9) Server -> Client : 1038 bytes (SSL) (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  8) Server -> Client : 800 bytes (SSL) (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "POST /submit/firefox-desktop/pageload/1/d8740a98-a46e-4fc6-9c02-92a5543a1511"   
+[Network Analyzer (46ac:4178)]   (Sid:  8) Client -> Server @ : 1078 bytes (SSL)(Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  8) Server -> Client : 823 bytes (SSL) (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "POST /submit/firefox-desktop/baseline/1/050609b5-fdb4-42ce-abee-bd256694f91b"   
+[Network Analyzer (46ac:4178)]   (Sid:  8) Client -> Server @ : 1521 bytes (SSL)(Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  8) Server -> Client : 811 bytes (SSL) (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "POST /submit/firefox-desktop/dau-reporting/1/362cee7e-3f21-417d-b892-da0458792462"   
+[Network Analyzer (46ac:4178)]   (Sid:  8) Client -> Server @ : 1422 bytes (SSL)(Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  8) Server -> Client : 852 bytes (SSL) (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent 1_transaction [Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:1fe4)] Address lookup for DESKTOP-L997D1H = 192.168.1.33
+[Network Analyzer (46ac:1fe4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "GET /WebTours/"   
+[Network Analyzer (46ac:4178)]   (Sid: 21) Client -> Server @ : 578 bytes (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid: 21) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "GET /WebTours/header.html"   
+[Network Analyzer (46ac:4178)]   (Sid: 21) Client -> Server @ : 612 bytes (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (46ac:4178)]   (Sid: 21) Server -> Client : 193 bytes  (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:1fe4)] Address lookup for DESKTOP-L997D1H = 192.168.1.33
+[Network Analyzer (46ac:1fe4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (46ac:4178)]   (Sid: 22) Client -> Server @ : 523 bytes (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid: 22) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (46ac:4178)]   (Sid: 22) Client -> Server @ : 564 bytes (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "GET /WebTours/home.html"   
+[Network Analyzer (46ac:4178)]   (Sid: 21) Client -> Server @ : 660 bytes (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid: 21) Server -> Client : 193 bytes  (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid: 22) Server -> Client : 1748 bytes  (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer (46ac:4178)]   (Sid: 22) Client -> Server @ : 540 bytes (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid: 22) Connection Terminated (by Client)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer (46ac:4178)]   (Sid:  6) Connection Terminated (by Client)
+[User action                 ] EndTransactionEvent 1_transaction [Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent 2_transaction [Network Analyzer (46ac:4178)]   (Sid: 21) Connection Terminated (by Server)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:1fe4)] Address lookup for DESKTOP-L997D1H = 192.168.1.33
+[Network Analyzer (46ac:1fe4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (46ac:4178)]   (Sid: 23) Client -> Server @ : 789 bytes (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid: 23) Server -> Client : 847 bytes  (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid: 23) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (46ac:4178)]   (Sid: 23) Client -> Server @ : 669 bytes (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:1fe4)] Address lookup for DESKTOP-L997D1H = 192.168.1.33
+[Network Analyzer (46ac:1fe4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (46ac:4178)]   (Sid: 24) Client -> Server @ : 664 bytes (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid: 24) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid: 24) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid: 23) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid: 23) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer (46ac:4178)]   (Sid: 23) Client -> Server @ : 658 bytes (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid: 23) Connection Terminated (by Client)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer (46ac:4178)]   (Sid: 24) Client -> Server @ : 660 bytes (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid: 24) Connection Terminated (by Client)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent 2_transaction [Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent 3_transaction [Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:1fe4)] Address lookup for DESKTOP-L997D1H = 192.168.1.33
+[Network Analyzer (46ac:1fe4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (46ac:4178)]   (Sid: 25) Client -> Server @ : 701 bytes (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid: 25) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid: 25) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (46ac:4178)]   (Sid: 25) Client -> Server @ : 561 bytes (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:1fe4)] Address lookup for DESKTOP-L997D1H = 192.168.1.33
+[Network Analyzer (46ac:1fe4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (46ac:4178)] "GET /WebTours/home.html"   
+[Network Analyzer (46ac:4178)]   (Sid: 26) Client -> Server @ : 657 bytes (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid: 26) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid: 25) Server -> Client : 1752 bytes  (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid: 25) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (46ac:4178)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent 3_transaction 

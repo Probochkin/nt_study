@@ -1,0 +1,11 @@
+login,password,firstName,LastName,creditCard,expDate,adressStreet,city
+SaulGoodman,BetterCallSaul,Sol,Goodman,1234567890123456,12/2024,Moscow,Pushkin Street - house 25
+KimWexler,AttorneyAtLaw,Kim,Wexler,6789456789012345,02/2025,St. Petersburg,Lenin Avenue - 10
+HowardHamlin,HammondLaw,Howard,Hamlin,4567891234567890,03/2025,Novosibirsk,Kirova street - house 56
+ChuckMcGill,McGillInvestments,Chuck,McGill,7894561237894567,04/2025,Yekaterinburg, Mira Street - house 34
+JimmyMcGill,SlippinJimmy,Jimmy,McGill,1234567890123456,05/2025,Nizhny Novgorod, Gorky Street - house 78
+MikeEhrmantraut,NoHalfMeasures,Mike,Ehrmantraut,9876543219876543,06/2025,Kazan, Chekhov Street - house 90
+NachoVarga,VargasCode,Nacho,Varga,2345678902345678,07/2025,Chelyabinsk, Pobedy Avenue - 123
+LaloSalamanca,SalamancaSteel,Lalo,Salamanca,3456789013456789,08/2025,Omsk, Nekrasova street - house 45
+TucoSalamanca,TacoTime,Tuco,Salamanca,56789012,09/2025,Samara, Sadovaya street - house 67
+FrancescaLiddy,LiddyLaw,Francesca,Liddy,678945678906789,10/2025,Rostov-on-Don, Krasnoarmeyskaya street - house 89
